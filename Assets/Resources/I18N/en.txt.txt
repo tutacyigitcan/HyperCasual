@@ -1,0 +1,14 @@
+taptostart=Tap To Start
+taptoretry=tap to retry
+tapnextlevel=tap for next level
+taptoreturn=Tap To Return
+back=back
+dailyrewardin=daily reward in
+scoreA=score:
+score=score
+gainadmoney=Watch Ad And Gain 2x Money
+dailyrewardtext=you received daily reward
+head=head
+face=face
+equip=equip
+unequip=unequip

@@ -1,0 +1,14 @@
+taptostart=baslamak icin dokun
+taptoretry=tekrar denemek icin dokun
+tapnextlevel=sonraki level icin dokun
+taptoreturn=geri donmek icin dokun
+back=geri
+dailyrewardin=odul icin kalan sure
+scoreA=skor:
+score=skor
+gainadmoney=reklam izle ve iki kati para kazan
+dailyrewardtext=gunluk odulunu aldin
+head=kafa
+face=surat
+equip=giy
+unequip=cikar
